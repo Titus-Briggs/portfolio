@@ -99,10 +99,6 @@ I refine the component mix and configuration rules to ensure the bundle is:
 
 This stage is iterative — I adjust, test, and re-balance until the bundle feels intuitive and purposeful.
 
-Here’s an example of one of the bundles I’m currently developing. Stock isn’t due until August, but having everything built early means we’re fully prepared when it lands — and it also gives a clear insight into how I approach the bundle‑building process from the ground up.
-
-{{< figure src="/my-website/images/socketry.png" width="100%" >}}
-
 
 #### Checking Commercial Viability
 
@@ -116,6 +112,10 @@ As the structure evolves, I test it against the commercial checkpoints:
 - *Seasonal/PROMO Priorities* - aligning with trading plans and campaign windows
 
 A bundle that looks good on paper may still be rejected if it cannibalises a hero product or creates confusion. Conversely, a tighter‑margin bundle may still be worth building if it serves a strategic purpose.
+
+Here’s an example of one of the bundles I’m currently developing. Stock isn’t due until August, but having everything built early means we’re fully prepared when it lands — and it also gives a clear insight into how I approach the bundle‑building process from the ground up.
+
+{{< figure src="/my-website/images/socketry.png" width="100%" >}}
 
 #### Cross-Team Review
 
