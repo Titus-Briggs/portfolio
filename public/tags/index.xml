@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Titus Briggs Portfolio</title>
-    <link>https://titus-briggs.github.io/my-website/tags/</link>
+    <link>http://localhost:1313/portfolio/tags/</link>
     <description>Recent content in Tags on Titus Briggs Portfolio</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
     <lastBuildDate>Sat, 13 Jun 2026 12:23:44 +0100</lastBuildDate>
-    <atom:link href="https://titus-briggs.github.io/my-website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Analysis</title>
-      <link>https://titus-briggs.github.io/my-website/tags/data-analysis/</link>
+      <link>http://localhost:1313/portfolio/tags/data-analysis/</link>
       <pubDate>Sat, 13 Jun 2026 12:23:44 +0100</pubDate>
-      <guid>https://titus-briggs.github.io/my-website/tags/data-analysis/</guid>
+      <guid>http://localhost:1313/portfolio/tags/data-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>SGS Engineering</title>
-      <link>https://titus-briggs.github.io/my-website/tags/sgs-engineering/</link>
+      <link>http://localhost:1313/portfolio/tags/sgs-engineering/</link>
       <pubDate>Sat, 13 Jun 2026 12:23:44 +0100</pubDate>
-      <guid>https://titus-briggs.github.io/my-website/tags/sgs-engineering/</guid>
+      <guid>http://localhost:1313/portfolio/tags/sgs-engineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Tools and Systems</title>
-      <link>https://titus-briggs.github.io/my-website/tags/tools-and-systems/</link>
+      <link>http://localhost:1313/portfolio/tags/tools-and-systems/</link>
       <pubDate>Sat, 21 Mar 2026 20:03:39 +0000</pubDate>
-      <guid>https://titus-briggs.github.io/my-website/tags/tools-and-systems/</guid>
+      <guid>http://localhost:1313/portfolio/tags/tools-and-systems/</guid>
       <description></description>
     </item>
     <item>
       <title>Athletes</title>
-      <link>https://titus-briggs.github.io/my-website/tags/athletes/</link>
+      <link>http://localhost:1313/portfolio/tags/athletes/</link>
       <pubDate>Thu, 03 Jul 2025 10:10:14 +0100</pubDate>
-      <guid>https://titus-briggs.github.io/my-website/tags/athletes/</guid>
+      <guid>http://localhost:1313/portfolio/tags/athletes/</guid>
       <description></description>
     </item>
   </channel>

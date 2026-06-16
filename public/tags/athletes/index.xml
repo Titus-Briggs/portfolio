@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Athletes - Tag - Titus Briggs Portfolio</title>
-    <link>https://titus-briggs.github.io/my-website/tags/athletes/</link>
+    <link>http://localhost:1313/portfolio/tags/athletes/</link>
     <description>Titus Briggs Portfolio</description>
     <generator>Hugo 0.154.5 &amp; FixIt v0.4.0-alpha-20250704082734-193fd193</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 03 Jul 2025 10:10:14 +0100</lastBuildDate>
-    <atom:link href="https://titus-briggs.github.io/my-website/tags/athletes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/tags/athletes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sport Performance Data Analytics</title>
-      <link>https://titus-briggs.github.io/my-website/posts/5f0dded/</link>
+      <link>http://localhost:1313/portfolio/posts/5f0dded/</link>
       <pubDate>Thu, 03 Jul 2025 10:10:14 +0100</pubDate><author>briggstitus123@gmail.com (Titus Briggs)</author>
-      <guid>https://titus-briggs.github.io/my-website/posts/5f0dded/</guid>
-      <category domain="https://titus-briggs.github.io/my-website/categories/data-analytics/">Data Analytics</category>
-      <description>&lt;img src=&#34;https://titus-briggs.github.io/my-website/images/nova_logo.png&#34; width=&#34;160%&#34;&gt;&#xA;&lt;p&gt;Nottingham | Aug 2023 to May 2024&lt;/p&gt;</description>
+      <guid>http://localhost:1313/portfolio/posts/5f0dded/</guid>
+      <category domain="http://localhost:1313/portfolio/categories/data-analytics/">Data Analytics</category>
+      <description>&lt;img src=&#34;http://localhost:1313/portfolio/images/nova_logo.png&#34; width=&#34;160%&#34;&gt;&#xA;&lt;p&gt;Nottingham | Aug 2023 to May 2024&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

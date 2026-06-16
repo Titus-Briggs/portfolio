@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Titus Briggs Portfolio</title>
-    <link>https://titus-briggs.github.io/my-website/categories/</link>
+    <link>http://localhost:1313/portfolio/categories/</link>
     <description>Recent content in Categories on Titus Briggs Portfolio</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
     <lastBuildDate>Sat, 13 Jun 2026 12:23:44 +0100</lastBuildDate>
-    <atom:link href="https://titus-briggs.github.io/my-website/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Analytics</title>
-      <link>https://titus-briggs.github.io/my-website/categories/data-analytics/</link>
+      <link>http://localhost:1313/portfolio/categories/data-analytics/</link>
       <pubDate>Sat, 13 Jun 2026 12:23:44 +0100</pubDate>
-      <guid>https://titus-briggs.github.io/my-website/categories/data-analytics/</guid>
+      <guid>http://localhost:1313/portfolio/categories/data-analytics/</guid>
       <description></description>
     </item>
     <item>
       <title>Tools and Systems</title>
-      <link>https://titus-briggs.github.io/my-website/categories/tools-and-systems/</link>
+      <link>http://localhost:1313/portfolio/categories/tools-and-systems/</link>
       <pubDate>Sat, 21 Mar 2026 20:03:39 +0000</pubDate>
-      <guid>https://titus-briggs.github.io/my-website/categories/tools-and-systems/</guid>
+      <guid>http://localhost:1313/portfolio/categories/tools-and-systems/</guid>
       <description></description>
     </item>
   </channel>

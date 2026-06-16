@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools and Systems - Category - Titus Briggs Portfolio</title>
-    <link>https://titus-briggs.github.io/my-website/categories/tools-and-systems/</link>
+    <link>http://localhost:1313/portfolio/categories/tools-and-systems/</link>
     <description>Titus Briggs Portfolio</description>
     <generator>Hugo 0.154.5 &amp; FixIt v0.4.0-alpha-20250704082734-193fd193</generator>
     <language>en-uk</language>
     <lastBuildDate>Sat, 21 Mar 2026 20:03:39 +0000</lastBuildDate>
-    <atom:link href="https://titus-briggs.github.io/my-website/categories/tools-and-systems/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/categories/tools-and-systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tools and Systems</title>
-      <link>https://titus-briggs.github.io/my-website/posts/f0219b0/</link>
+      <link>http://localhost:1313/portfolio/posts/f0219b0/</link>
       <pubDate>Sat, 21 Mar 2026 20:03:39 +0000</pubDate><author>briggstitus123@gmail.com (Titus Briggs)</author>
-      <guid>https://titus-briggs.github.io/my-website/posts/f0219b0/</guid>
-      <category domain="https://titus-briggs.github.io/my-website/categories/tools-and-systems/">Tools and Systems</category>
-      <description>&lt;img src=&#34;https://titus-briggs.github.io/my-website/images/doom_logo.png&#34; width=&#34;100%&#34;&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve taken the chance to reflect on the years I spent at Nottingham Trent University - and the tools and systems that quietly shaped how I work today&lt;/p&gt;</description>
+      <guid>http://localhost:1313/portfolio/posts/f0219b0/</guid>
+      <category domain="http://localhost:1313/portfolio/categories/tools-and-systems/">Tools and Systems</category>
+      <description>&lt;img src=&#34;http://localhost:1313/portfolio/images/doom_logo.png&#34; width=&#34;100%&#34;&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve taken the chance to reflect on the years I spent at Nottingham Trent University - and the tools and systems that quietly shaped how I work today&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
