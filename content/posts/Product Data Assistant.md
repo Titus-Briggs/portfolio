@@ -54,7 +54,7 @@ Since then, my role has grown into something much bigger and more defined. I now
 
 But the clearest way to understand the breadth of my role is through the thing I’ve become known for internally: **Bundles**.
 
-{{< figure src="/my-website/images/Modular.png" width="100%" >}}
+{{< figure src="/portfolio/images/Modular.png" width="100%" >}}
 
 Bundles tie together every part of my work, and they go far beyond the typical “group of products” you see on a product page. Because of how bundles are structured in the PIM, I’m also responsible for some of the highest-value areas of SGS’s business — especially the Modular Workshop range, which represents a major share of company profit. Even though these units appear on the website as single products, their modular nature means they’re still treated internally as bundles, with all the complexity that comes with that.
 
@@ -80,7 +80,7 @@ Sometimes the insight comes from numbers — a spike in sales, a dip, or a patte
 It’s a mix of detective work and commercial instinct - and eventually a pattern emerges.
 
 Here’s an example of the kind of dataset I work with when spotting opportunities
-{{< figure src="/my-website/images/jacks.png" width="100%" >}}
+{{< figure src="/portfolio/images/jacks.png" width="100%" >}}
 
 ## Composition & Validation
 
@@ -115,7 +115,7 @@ A bundle that looks good on paper may still be rejected if it cannibalises a her
 
 Here’s an example of one of the bundles I’m currently developing. Stock isn’t due until August, but having everything built early means we’re fully prepared when it lands — and it also gives a clear insight into how I approach the bundle‑building process from the ground up.
 
-{{< figure src="/my-website/images/socketry.png" width="100%" >}}
+{{< figure src="/portfolio/images/socketry.png" width="100%" >}}
 
 #### Cross-Team Review
 
@@ -140,7 +140,7 @@ This includes:
 
 This stage is meticulous. A single incorrect attribute or missing link can break facets, hide the product from filters, or cause stock discrepancies. For complex ranges like SWS, where a single unit can contain dozens of components, accuracy is everything.
 
-{{< figure src="/my-website/images/sws_building.png" width="100%" >}}
+{{< figure src="/portfolio/images/sws_building.png" width="100%" >}}
 
 I also enter the product into our accounting software. While it doesn’t hold the same level of detail as the PIM, it’s essential for stock management, internal reporting, and ensuring Buying can track active inventory.
 
@@ -161,7 +161,7 @@ I check that the bundle has pulled through correctly to the front end, ensuring:
 
 This stage is about making sure the bundle is not only live but discoverable, logical, and positioned to convert.
 
-{{< figure src="/my-website/images/SWSG.png" width="100%" >}}
+{{< figure src="/portfolio/images/SWSG.png" width="100%" >}}
 
 Sometimes a product pulls through correctly, but the facets don’t surface it where customers expect. For example, I’ve had bundles appear on the category page but not show up when filtering by drawer count. After investigating, I found that one inherited attribute wasn’t mapped correctly from a component SKU. Fixing the mapping immediately improved visibility and traffic.
 
@@ -177,7 +177,7 @@ I track:
 - Conversion indicators
 - Early sales performance
 
-{{< figure src="/my-website/images/remarkable.png" width="100%" >}}
+{{< figure src="/portfolio/images/remarkable.png" width="100%" >}}
 
 This data helps me refine the product over time. Sometimes the improvements are small — adjusting image order, tightening a title, or improving the first paragraph of the description. Other times they’re structural.
 

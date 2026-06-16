@@ -40,7 +40,7 @@ repost:
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
 
-<img src="/my-website/images/doom_logo.png" width="100%">
+<img src="/portfolio/images/doom_logo.png" width="100%">
 
 I've taken the chance to reflect on the years I spent at Nottingham Trent University - and the tools and systems that quietly shaped how I work today
 
@@ -72,7 +72,7 @@ These habits carried me through university, helped me juggle full-time work alon
 
 ## Doom Emacs
 
-{{< figure src="/my-website/images/doom-copy.png" link="/my-website/images/doom-copy.png" >}}
+{{< figure src="/portfolio/images/doom-copy.png" link="/portfolio/images/doom-copy.png" >}}
 
 One tool that made the biggest difference to my productivity: **Doom Emacs**.
 
@@ -97,14 +97,14 @@ Most days started the same way: open my agenda, review deadlines, capture anythi
 I still use Doom Emacs to this day (including writing this post), and I can't see myself switching anytime soon.
 
 ### Here's today's *TO DO* list for example.
-{{< figure src="/my-website/images/Doom_todo.png" link="/my-website/images/Doom_todo.png" >}}
+{{< figure src="/portfolio/images/Doom_todo.png" link="/portfolio/images/Doom_todo.png" >}}
 
 
 This is not a very extensive list but it gives a good idea of quite how helpful this structured system can be.
 
 ## Syncthing
 
-{{< figure src="/my-website/images/syncthing-copy.png" link="/my-website/images/syncthing-copy.png" >}}
+{{< figure src="/portfolio/images/syncthing-copy.png" link="/portfolio/images/syncthing-copy.png" >}}
 
 After losing handwritten notes in the first year and then dealing with OneNote drive issues (a classic), I needed something reliable and completely independent of cloud services.
 

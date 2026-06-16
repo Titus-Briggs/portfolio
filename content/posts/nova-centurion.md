@@ -42,7 +42,7 @@ featuredImage: false
 
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
-<img src="/my-website/images/nova_logo.png" width="160%">
+<img src="/portfolio/images/nova_logo.png" width="160%">
 
 Nottingham | Aug 2023 to May 2024
 <!--more-->
@@ -71,7 +71,7 @@ You can check out the post [here on LinkedIn](https://www.linkedin.com/posts/dav
 
 ## The Data
 
-{{< figure src="/my-website/images/data_analysis.png" caption="Excel worksheet of raw data of swim times and averages" link="/my-website/images/data_analysis.png" width="60%" >}}
+{{< figure src="/portfolio/images/data_analysis.png" caption="Excel worksheet of raw data of swim times and averages" link="/portfolio/images/data_analysis.png" width="60%" >}}
 
 Pivotal to my role was the manual collection of lap times. I recorded finishes as swimmers hit the wall—scribbling times while mentally tracking who touched in which lane, often just seconds apart. The pace was relentless, and there was no margin for hesitation. It was a baptism of fire, but I quickly learned the importance of staying organised, thinking ahead, and keeping calm under pressure.
 
@@ -97,7 +97,7 @@ Even without editing software or extended review time, the combination of access
 
 ## Heart Rate Tracking
 
-{{< figure src="/my-website/images/polar_monitor.png" caption="Polar heart rate monitor" link="/my-website/images/polar_monitor.png" >}}
+{{< figure src="/portfolio/images/polar_monitor.png" caption="Polar heart rate monitor" link="/portfolio/images/polar_monitor.png" >}}
 
 {{< figure src="/my-website/images/HR.png" caption="Monitoring heart rate zones of swimmers" link="/my-website/images/HR.png" >}}
 
@@ -113,7 +113,7 @@ In hindsight, I’d have loved to dig deeper into long-term patterns — compari
 
 ## Goal Setting
 
-{{< figure src="/my-website/images/goal_setting.png" caption="Goal setting and progress" link="/my-website/images/goal_setting.png" >}}
+{{< figure src="/portfolio/images/goal_setting.png" caption="Goal setting and progress" link="/portfolio/images/goal_setting.png" >}}
 
 At the start of each cycle, I worked with swimmers to set both performance targets and technical goals — whether that meant hitting a new 100 m PB or refining their breakout from the wall. It wasn’t just about chasing time; we aimed to make their goals as specific, personal, and measurable as possible.
 
@@ -125,7 +125,7 @@ We revisited and adjusted goals regularly, especially as technique improved or c
 
 ## Hydration
 
-{{< figure src="/my-website/images/hydration.png" caption="Urine specific gravity testing" link="/my-website/images/hydration.png" >}}
+{{< figure src="/portfolio/images/hydration.png" caption="Urine specific gravity testing" link="/portfolio/images/hydration.png" >}}
 
 Like clockwork, every Saturday before sunrise, I’d be poolside — clipboard in hand, collecting neatly labelled bottles from swimmers who were already stretching or warming up. Asking for urine samples at 5:30 am might sound awkward, but within the squad it was standard procedure — routine, professional, and completely normalised. The swimmers were used to it, and it was all handled without fuss or weirdness.
 
@@ -133,4 +133,4 @@ Hydration testing might not be the most glamorous aspect of performance support,
 
 After testing, I gave each swimmer their individual results privately, with a quick explanation of where they stood. Over time, it became a bit of a friendly rivalry — athletes competing (quietly) to be the most consistent or to bounce back quickest after hard sessions. That unspoken competition actually helped me keep them engaged and proactive — they took ownership of it, which made the data far more meaningful.
 
-It’s not the sort of work that makes the highlight reel, but it quietly underpinned a lot of the athletes’ day-to-day success — and reinforced how the smallest habits can create the biggest differences when practiced consistently.
+It’s not the sort of work that makes the highlight reel, but it quietly underpinned a lot of the athletes’ day-to-day success — and reinforced how the smallest habits can create the biggest differences when practised consistently.
