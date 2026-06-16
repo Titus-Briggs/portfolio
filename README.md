@@ -1,6 +1,6 @@
 ## View My Portfolio
 
-**[titus-briggs.github.io/my-website](https://titus-briggs.github.io/portfolio/)**
+**[titus-briggs.github.io/portfolio](https://titus-briggs.github.io/portfolio/)**
 
 This site is an evolving portfolio documenting my journey into product data, analytics, and systems thinking. It started as a way to track my transition from sport science into data, and it’s now where I share the work I’m doing at SGS Engineering, the systems I build, and the skills I’m developing.
 
