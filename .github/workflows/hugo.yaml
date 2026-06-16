@@ -68,7 +68,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://titusbriggs.github.io/my-website/" \
+            --baseURL "https://titusbriggs.github.io/portfolio/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
 
       - name: Save Hugo Cache
