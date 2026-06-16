@@ -40,7 +40,7 @@ repost:
 
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
-<img src="/my-website/images/SGS_logo_copy.jpg" width="100%">
+<img src="/portfolio/images/SGS_logo_copy.jpg" width="100%">
 
 **My Role and What I Do**
 
