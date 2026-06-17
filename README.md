@@ -1,6 +1,6 @@
 ## View My Portfolio
 
-**[titus-briggs.github.io/portfolio](https://titus-briggs.github.io/portfolio/)**
+**https://titus-briggs.github.io/portfolio/**
 
 This site is an evolving portfolio documenting my journey into product data, analytics, and systems thinking. It started as a way to track my transition from sport science into data, and it’s now where I share the work I’m doing at SGS Engineering, the systems I build, and the skills I’m developing.
 
@@ -22,7 +22,7 @@ The productivity ecosystems I’ve built over the years — from my Doom Emacs s
 
 I’m building a career in product data and commercial operations, and my role at SGS has opened up a range of future paths — from PIM management to commercial analysis and technical product roles.
 
-Explore: [https://titus-briggs.github.io/portfolio/posts/604a6dc/]
+Explore: **https://titus-briggs.github.io/portfolio/posts/604a6dc/**
 
 To support that growth, I’m beginning structured SQL learning to deepen my analytical capability and expand my long‑term career prospects.
 
