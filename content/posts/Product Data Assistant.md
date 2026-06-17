@@ -142,7 +142,7 @@ This includes:
 
 This stage is meticulous. A single incorrect attribute or missing link can break facets, hide the product from filters, or cause stock discrepancies. For complex ranges like SWS, where a single unit can contain dozens of components, accuracy is everything.
 
-{{< figure src="/portfolio/images/sws_building.png" link="/portfolio/images/sws_bundling.png >}}
+{{< figure src="/portfolio/images/sws_building.png" link="/portfolio/images/sws_bundling.png" >}}
 
 I also enter the product into our accounting software. While it doesn’t hold the same level of detail as the PIM, it’s essential for stock management, internal reporting, and ensuring Buying can track active inventory.
 
