@@ -81,7 +81,7 @@ It’s a mix of detective work and commercial instinct - and eventually a patter
 
 Here’s an example of the kind of dataset I work with when spotting opportunities
 
-{{< figure src="/portfolio/images/jacks.png" link="/portfolio/images/jacks.png" width="100%" >}}
+{{< figure src="/portfolio/images/jacks.png" link="/portfolio/images/jacks.png" >}}
 
 ## Composition & Validation
 
@@ -116,7 +116,8 @@ A bundle that looks good on paper may still be rejected if it cannibalises a her
 
 Here’s an example of one of the bundles I’m currently developing. Stock isn’t due until August, but having everything built early means we’re fully prepared when it lands — and it also gives a clear insight into how I approach the bundle‑building process from the ground up.
 
-{{< figure src="/portfolio/images/socketry.png" width="100%" >}}
+{{< figure src="/portfolio/images/socketry.png" link="/portfolio/images/socketry.png >}}
+
 
 #### Cross-Team Review
 
@@ -141,7 +142,7 @@ This includes:
 
 This stage is meticulous. A single incorrect attribute or missing link can break facets, hide the product from filters, or cause stock discrepancies. For complex ranges like SWS, where a single unit can contain dozens of components, accuracy is everything.
 
-{{< figure src="/portfolio/images/sws_building.png" width="100%" >}}
+{{< figure src="/portfolio/images/sws_building.png" link="/portfolio/images/sws_bundling.png >}}
 
 I also enter the product into our accounting software. While it doesn’t hold the same level of detail as the PIM, it’s essential for stock management, internal reporting, and ensuring Buying can track active inventory.
 
