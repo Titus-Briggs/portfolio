@@ -80,7 +80,8 @@ Sometimes the insight comes from numbers — a spike in sales, a dip, or a patte
 It’s a mix of detective work and commercial instinct - and eventually a pattern emerges.
 
 Here’s an example of the kind of dataset I work with when spotting opportunities
-{{< figure src="/portfolio/images/jacks.png" width="100%" >}}
+
+{{< figure src="/portfolio/images/jacks.png" link="/portfolio/images/jacks.png" width="100%" >}}
 
 ## Composition & Validation
 
