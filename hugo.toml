@@ -61,12 +61,9 @@ lightbox = true
 [params]
   colorScheme = "light"
   colorSchemeToggle = true
+  customCSS = ["cards.css"]
 
 # ===== Date format =====
   dateFormat = "02/01/2006"
 
 
-# ===== 'Card' Articles =====
-
-[params.page]
-  customCSS = ["cards.css"]
