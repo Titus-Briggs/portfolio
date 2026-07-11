@@ -19,6 +19,7 @@ tags:
   - SGS Engineering
 categories:
   - Data Analytics
+cover: "/portfolio/images/SGS_logo_copy.jpg" 
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false

@@ -66,5 +66,7 @@ lightbox = true
   dateFormat = "02/01/2006"
 
 
-# not using for the time being
-  customSCSS = []
+# ===== 'Card' Articles =====
+
+[params.page]
+  customCSS = ["cards.css"]
