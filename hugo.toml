@@ -25,6 +25,7 @@ lightbox = true
   weight = 1
     pre = "<i class='fa-solid fa-circle-question'></i> "
 
+
 # ===== Categories and tags =====
  [[menu.main]]
     identifier = "categories"
@@ -37,17 +38,17 @@ lightbox = true
     weight = 2
     [menu.main.params]
       icon = "fa-solid fa-folder-tree"
-  [[menu.main]]
-    identifier = "tags"
-    parent = ""
-    pre = ""
-    post = ""
-    name = "Tags"
-    url = "/tags/"
-    title = ""
-    weight = 3
-    [menu.main.params]
-      icon = "fa-solid fa-tags"
+  # [[menu.main]]
+  #   identifier = "tags"
+  #   parent = ""
+  #   pre = ""
+  #   post = ""
+  #   name = "Tags"
+  #   url = "/tags/"
+  #   title = ""
+  #   weight = 3
+  #   [menu.main.params]
+  #     icon = "fa-solid fa-tags"
 
 # ===== Contact me =====
 [params.social]
