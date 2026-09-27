@@ -51,7 +51,7 @@ lightbox = true
 
 # ===== Contact me =====
 [params.social]
-  LinkedIn = "https://www.linkedin.com/in/titus-briggs-sports-data-analyst-1584b025a/"
+  LinkedIn = "https://www.linkedin.com/in/titus-briggs-1584b025a/"
   Email = "mailto:briggstitus123@gmail.com"
 
 # ===== Colours =====
@@ -64,3 +64,17 @@ lightbox = true
   dateFormat = "02/01/2006"
 
 
+# ===== Google site verification =====
+
+[params.verification]
+google = "VUJlCudct0tN1bVlS7QMJhPvysbS1zJ6jhwunCVB2hc"
+
+
+# ===== Umami Analytics =====
+
+[params.analytics]
+enable = true
+
+[params.analytics.umami]
+data_website_id = "5a9a7333-25a7-4efa-9d52-2c71531942d5"
+src = "https://cloud.umami.is/script.js"
