@@ -99,7 +99,7 @@ Even without editing software or extended review time, the combination of access
 
 {{< figure src="/portfolio/images/polar_monitor.png" caption="Polar heart rate monitor" link="/portfolio/images/polar_monitor.png" >}}
 
-{{< figure src="/my-website/images/HR.png" caption="Monitoring heart rate zones of swimmers" link="/my-website/images/HR.png" >}}
+{{< figure src="/portfolio/images/HR.png" caption="Monitoring heart rate zones of swimmers" link="/portfolio/images/HR.png" >}}
 
 Each session, swimmers wore Polar heart rate monitors clipped to their goggles. This allowed the head coach to implement zonal training — a highly effective approach that could be tailored to each athlete, whether they were sprinters, distance swimmers, or coming back from injury.
 
