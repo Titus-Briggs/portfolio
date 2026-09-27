@@ -14,9 +14,6 @@ keywords: Data Analysis, Athlete, Biomechanics, Excel
 license:
 comment: false
 weight: 0
-tags:
-  - Data Analysis
-  - Athletes
 categories:
   - Data Analytics
 hiddenFromHomePage: false

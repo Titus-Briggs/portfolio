@@ -14,9 +14,6 @@ keywords: Data, Data Analysis, PIM, Product Creation
 license:
 comment: false
 weight: 0
-tags:
-  - Data Analysis
-  - SGS Engineering
 categories:
   - Data Analytics
 cover: "/portfolio/images/SGS_logo_copy.jpg" 

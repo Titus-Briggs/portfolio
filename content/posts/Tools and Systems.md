@@ -14,8 +14,6 @@ keywords: Doom Emacs, Syncthing, University, Tools, Systems
 license:
 comment: false
 weight: 0
-tags:
-  - Tools and Systems
 categories:
   - Tools and Systems
 hiddenFromHomePage: false
