@@ -15,7 +15,7 @@ license:
 comment: false
 weight: 0
 categories:
-  - Data Analytics
+  - Data Work
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRelated: false
@@ -39,7 +39,7 @@ featuredImage: false
 
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
-<img src="/portfolio/images/nova_logo.png" width="160%">
+<img src="/images/nova_logo.png" width="160%">
 
 Nottingham | Aug 2023 to May 2024
 <!--more-->

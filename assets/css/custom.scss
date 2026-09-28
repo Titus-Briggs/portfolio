@@ -1,0 +1,29 @@
+.summary-flex {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+
+  .featured-image-preview {
+    flex: 0 0 320px;
+    margin: 0;
+
+    img {
+      border-radius: 8px;
+      object-fit: cover;
+      width: 100%;
+      height: auto;
+    }
+  }
+
+  .summary-body {
+    flex: 1;
+    min-width: 0; // prevents text overflow issues in flex children
+  }
+}
+
+// Stack on small screens rather than squeezing side-by-side
+@media (max-width: 768px) {
+  .summary-flex {
+    flex-direction: column;
+  }
+}

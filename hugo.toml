@@ -1,4 +1,4 @@
-baseURL = 'https://titus-briggs.github.io/portfolio/'
+baseURL = 'https://titus-briggs.github.io/'
 languageCode = 'en-uk'
 title = 'Titus Briggs Portfolio'
 theme = 'FixIt'
