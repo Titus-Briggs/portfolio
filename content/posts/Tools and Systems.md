@@ -40,106 +40,141 @@ repost:
 
 <img src="/images/doom_logo.png" width="100%">
 
-I've taken the chance to reflect on the years I spent at Nottingham Trent University - and the tools and systems that quietly shaped how I work today
+I've taken the chance to reflect on the years I spent at Nottingham Trent University — and on the tools and systems that quietly shaped how I work today.
+
+More than anything, I've realised that **good systems don't just help your work, they change the way you work.**
 
 <!--more-->
 
 ## Reflection
 
-Graduating felt like a closing a long chapter - one full of challenges, growth, and a lot of learning that happened outside the lecture theatre as much inside it.
+Graduating felt like closing a long chapter — one full of challenges, growth, deadlines, and a lot of learning that happened just as much outside the lecture theatre as inside it.
 
-Looking back, one thing stands out more than anything else: the systems I built to stay organised, focused, and consistent. They weren't glamorous, but they kept me grounded through deadlines, dissertation season, full-time work, and everything in between.
+Looking back, one thing stands out more than anything else: the systems I built to stay organised, focused, and consistent.
 
-Now, as I move into a new chapter -  stepping into my role as **Data Product Assistant** at **SGS Engineering** -  I've realised how much these tools still influence the way I think, plan, and solve problems. This post is a look at the systems that helped me through university and continue to shape my workflow today.
+They weren't particularly glamorous. They didn't make the work disappear, and they certainly didn't stop deadlines from piling up. But they gave me something much more useful: a reliable way of dealing with the work when everything else felt chaotic.
 
-This post leans more "blog" that "portfolio", but it reflects the way I approach work: structured, intentional, and always looking for ways to make process smoother.
+That became increasingly important as university progressed. I was balancing full-time work alongside my degree, managing coursework and eventually a dissertation, while still trying to maintain some kind of life outside of all of it.
 
-## Why These Tools Matter
-
-Before diving into the specifics, it's worth explaining *why* these tools became so important.
-
-For me, tools aren't just conveniences, they shape the way I think. 
-
-* Doom Emacs taught me to break problems downs.
-
-* Syncthing taught me how to build reliable systems.
-
-* My workflows taught me to design processes that don't fall apart under pressure.
-
-These habits carried me through university, helped me juggle full-time work alongside study, and now from the foundation of how I approach technical work. Even though I have not started my new role yet, I can already see how this mindset will translate: building systems, improving workflows, and making information easier to work with.
+The tools I used became more than just productivity software. Over time, they changed how I approached problems.
 
 ## Doom Emacs
 
 {{< figure src="/images/doom-copy.png" link="/images/doom-copy.png" >}}
 
-One tool that made the biggest difference to my productivity: **Doom Emacs**.
+The tool that probably had the biggest influence on how I work is **Doom Emacs**.
 
-I won't attempt a full technical breakdown, there are entire wikis for that, but the simplest way to describe it is this:
+I won't attempt a full technical breakdown — there are entire wikis dedicated to that — but the simplest way I can describe it is:
 
-*Doom Emacs is a fast, keyboard-driven, endlessly customisable productivity environment built around structure and clarity.*
+*Doom Emacs is a fast, keyboard-driven, endlessly customisable environment built around structure and clarity.*
 
-Think of it like Obsidian, but more powerful, more flexible, and more opinionated. It became my central hub for:
+I used it as a central hub for a few things that mattered most:
 
-* Scheduling and planning
-* Managing tasks
-* Keeping clean structured notes
-* Writing assignments and organising research
-* Staying focused during lectures and revision
+* Planning deadlines and upcoming work
+* Managing tasks and projects
+* Writing structured notes and coursework
 
-What surprised me most wasn't just how useful it was, but how it changed the way I think.
+What surprised me wasn't just how much I could do with it, but how much it changed the way I thought.
 
-Org-mode forces you to break things down, outline ideas, and structure your thoughts before diving in. Over time, that mindset bled into everything else - my dissertation, revision, even how I handled responsibilities at work.
+Org-mode encourages you to break large problems into smaller ones, outline ideas, and give information some structure before trying to act on it. Eventually, that stopped being something I did inside Emacs and became something I did almost automatically.
 
-Most days started the same way: open my agenda, review deadlines, capture anything new, and get on with it. During lectures, everything went into structured headings so revision or coursework later was painless. When dissertation season hit, having every source, and draft section in one place kept me sane.
+A typical day started in much the same way: open my agenda, look at what was coming up, review anything overdue, capture anything new, and start working.
 
-I still use Doom Emacs to this day (including writing this post), and I can't see myself switching anytime soon.
+That routine became particularly useful during dissertation season.
 
-### Here's today's *TO DO* list for example.
+With deadlines approaching and a seemingly endless list of things to read, write, research, and fix, it was surprisingly easy to lose sight of what actually needed doing. Instead of keeping everything in my head, I could break the dissertation down into sections, tasks, sources, notes, and smaller pieces of work.
+
+Rather than thinking *"I need to finish my dissertation"*, I could look at the next concrete thing that needed doing.
+
+That distinction sounds small, but it made a huge difference.
+
+The same approach carried over into revision and coursework. During lectures, I'd capture notes under structured headings. Later, those notes could become the starting point for revision or an assignment. The work wasn't necessarily easier — but the process was much less chaotic.
+
+There was also, admittedly, a downside.
+
+Emacs makes it incredibly easy to optimise the system instead of actually using it.
+
+I'd sit down intending to work and think, *"I'll just add this keybinding."* Then I'd realise that another package could make it slightly better. Then I'd need to configure that package. Then I'd discover something else I could customise.
+
+An hour later, I'd have a beautifully configured productivity system and absolutely no additional work done.
+
+I've definitely fallen into that trap more times than I'd like to admit.
+
+But those hours weren't entirely wasted. Learning how the system worked meant I could eventually shape it around the way I actually worked rather than constantly adapting myself to someone else's workflow.
+
+That lesson has stuck with me: **there's value in understanding the tools you depend on, but the tool should ultimately serve the work.**
+
+I still use Doom Emacs today — including to write this post — and I can't see myself switching anytime soon.
+
+### Here's today's *TO DO* list, for example.
+
 {{< figure src="/images/Doom_todo.png" link="/images/Doom_todo.png" >}}
 
-
-This is not a very extensive list but it gives a good idea of quite how helpful this structured system can be.
+It's not an especially exciting list, but it gives a good idea of how I use the system to turn a collection of things in my head into something concrete and manageable.
 
 ## Syncthing
 
 {{< figure src="/images/syncthing-copy.png" link="/images/syncthing-copy.png" >}}
 
-After losing handwritten notes in the first year and then dealing with OneNote drive issues (a classic), I needed something reliable and completely independent of cloud services.
+If Doom Emacs taught me how useful structure could be, **Syncthing** taught me the value of reliability.
 
-Enter **Syncthing**.
+My interest in it came from a much less organised place.
 
-Syncthing let me sync my laptop with my old desktop PC, instantly, securely, and withiuyt relying on an external provider. Any file saved appeared on the other within seconds.
+During my first year, I lost handwritten notes. Later, I ran into the usual problems with cloud storage and OneNote — files not being where I expected them, syncing issues, and the general frustration of relying on a service to keep everything available when I needed it.
 
-It gave me:
+I wanted something simpler.
 
-* Automated backups
-* Full local control over my data
-* a seamless workflow between devices
-* Peace of mind during dissertation season
+I had an old desktop PC sitting around, alongside my laptop, and realised I could use Syncthing to keep the two in sync without handing control of my files over to another service.
 
-It's one of those tools that quietly dies its job in the background but it makes a huge difference in day-to-day productivity.
+The setup was straightforward: save a file on one machine and, shortly afterwards, it would appear on the other.
 
-## Lessons Learned
+That might not sound particularly impressive, but during university it removed an entire category of things I had to worry about.
 
-If there's one thing I learned from all this, it's that tools can be a double-edged sword.
+My files were available across my devices. Changes were synchronised automatically. I didn't have to remember to manually copy everything across before leaving the house or worry that the only copy of an important document was sitting on one machine.
 
-There were definitely times when I spent too long tweaking Doom Emacs instead of working. Anyone who uses Emacs knows the temptation: "I'll just add this keybinding" turns into an hour of configuration rabbit holes.
+During dissertation season, that peace of mind mattered.
 
-But here's the thing - those hours weren't wasted
+Syncthing didn't make the dissertation any easier to write, but it made the environment around it more dependable.
 
-Learning the tool *properly* meant I could work faster, think clearer, and stay organised when it mattered most. The time invested upfront paid itself back many times over.
+And that's something I've come to appreciate more generally: **good systems often become invisible when they're working properly.**
 
-The real lessons was this:
+The best outcome isn't thinking about the system constantly. It's forgetting that it exists because it's quietly doing what it's supposed to do.
+
+## What I Took From It
+
+Looking back, the individual tools matter less to me than what using them taught me.
+
+Doom Emacs taught me to break problems down.
+
+Syncthing taught me to think about reliability and failure.
+
+And spending years building my own workflows taught me to question processes that felt unnecessarily complicated.
+
+There were plenty of times when I over-engineered things. I've spent hours configuring software when I probably should have been doing the work itself. But that experimentation also taught me how to recognise the difference between a useful system and one that exists purely because it was interesting to build.
+
+More importantly, it changed the way I approach unfamiliar problems.
+
+When something feels overwhelming, my instinct is now to break it down.
+
+When something is repetitive, I look for a way to automate it.
+
+When information is difficult to manage, I look for a better structure.
+
+And when something keeps going wrong, I try to understand why rather than simply working around it.
+
+That's probably the biggest lesson I've taken from university.
 
 **Good systems don't just help your work, they change the way you work.**
 
-And once that shift happens, everything became easier.
-
 ## Looking Ahead
 
-Now that I am stepping into a data-focused role, I'm curious to see how these systems evolve. I don't know yet exactly how Doom Emacs or Syncthing will fit into my workflow at SGS Engineering, but I do know that the mindset behind them will.
+As I move into my role as **Data Product Assistant at SGS Engineering**, I'm taking that mindset with me.
 
-Building a website, maintaining a Github repo, refining my Emacs config, and designing my own workflow have all taught me the same thing:
+I don't expect my university workflows to survive unchanged. In fact, I expect the opposite. Different problems will require different systems, and I'll have to adapt to the tools, processes, and people around me.
+
+But the underlying approach remains the same.
+
+Building a website, maintaining a GitHub repository, refining my Emacs configuration, and designing my own workflows have all taught me to look at problems in terms of systems rather than isolated tasks.
 
 **If a system doesn't exist, I can build one.**
 
@@ -149,6 +184,6 @@ Building a website, maintaining a Github repo, refining my Emacs config, and des
 
 That's the mindset I'm taking into the next chapter.
 
-This site is becoming part portfolio, part blog, and I'm completely fine with that. If anything, it feels more honest.
+This site is becoming part portfolio, part blog, and I'm completely fine with that. If anything, it feels more honest. The things I build and the things I write about are both part of the same process: figuring out how I work, what I can improve, and what I want to learn next.
 
-And if you've made it this far, thanks for reading. More to come.
+Thanks for reading. More to come.
