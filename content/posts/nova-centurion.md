@@ -68,7 +68,7 @@ You can check out the post [here on LinkedIn](https://www.linkedin.com/posts/dav
 
 ## The Data
 
-{{< figure src="/portfolio/images/data_analysis.png" caption="Excel worksheet of raw data of swim times and averages" link="/portfolio/images/data_analysis.png" width="60%" >}}
+{{< figure src="/images/data_analysis.png" caption="Excel worksheet of raw data of swim times and averages" link="/images/data_analysis.png" width="60%" >}}
 
 Pivotal to my role was the manual collection of lap times. I recorded finishes as swimmers hit the wall—scribbling times while mentally tracking who touched in which lane, often just seconds apart. The pace was relentless, and there was no margin for hesitation. It was a baptism of fire, but I quickly learned the importance of staying organised, thinking ahead, and keeping calm under pressure.
 
@@ -94,7 +94,7 @@ Even without editing software or extended review time, the combination of access
 
 ## Heart Rate Tracking
 
-{{< figure src="/portfolio/images/polar_monitor.png" caption="Polar heart rate monitor" link="/portfolio/images/polar_monitor.png" >}}
+{{< figure src="/images/polar_monitor.png" caption="Polar heart rate monitor" link="/images/polar_monitor.png" >}}
 
 {{< figure src="/portfolio/images/HR.png" caption="Monitoring heart rate zones of swimmers" link="/portfolio/images/HR.png" >}}
 
@@ -110,7 +110,7 @@ In hindsight, I’d have loved to dig deeper into long-term patterns — compari
 
 ## Goal Setting
 
-{{< figure src="/portfolio/images/goal_setting.png" caption="Goal setting and progress" link="/portfolio/images/goal_setting.png" >}}
+{{< figure src="/images/goal_setting.png" caption="Goal setting and progress" link="/images/goal_setting.png" >}}
 
 At the start of each cycle, I worked with swimmers to set both performance targets and technical goals — whether that meant hitting a new 100 m PB or refining their breakout from the wall. It wasn’t just about chasing time; we aimed to make their goals as specific, personal, and measurable as possible.
 
@@ -122,7 +122,7 @@ We revisited and adjusted goals regularly, especially as technique improved or c
 
 ## Hydration
 
-{{< figure src="/portfolio/images/hydration.png" caption="Urine specific gravity testing" link="/portfolio/images/hydration.png" >}}
+{{< figure src="/images/hydration.png" caption="Urine specific gravity testing" link="/images/hydration.png" >}}
 
 Like clockwork, every Saturday before sunrise, I’d be poolside — clipboard in hand, collecting neatly labelled bottles from swimmers who were already stretching or warming up. Asking for urine samples at 5:30 am might sound awkward, but within the squad it was standard procedure — routine, professional, and completely normalised. The swimmers were used to it, and it was all handled without fuss or weirdness.
 
