@@ -1,6 +1,6 @@
 baseURL = 'https://titus-briggs.github.io/'
 languageCode = 'en-uk'
-title = 'Titus Briggs Portfolio'
+title = 'Titus Briggs'
 theme = 'FixIt'
 
 # ===== Direct html image sizing =====
