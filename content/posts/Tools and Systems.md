@@ -168,7 +168,7 @@ That's probably the biggest lesson I've taken from university.
 
 ## Looking Ahead
 
-As I move into my role as **Data Product Assistant at SGS Engineering**, I'm taking that mindset with me.
+As I move into my role as **Product Data Assistant at SGS Engineering**, I'm taking that mindset with me.
 
 I don't expect my university workflows to survive unchanged. In fact, I expect the opposite. Different problems will require different systems, and I'll have to adapt to the tools, processes, and people around me.
 
