@@ -53,7 +53,7 @@ lightbox = true
 # ===== Intro to site =====
 
  [params.home.profile]
-  enabled = true
+  enable = true
   title = "Titus Briggs"
   subtitle = "Product data, Systems, and Commercial Thinking"
   disclaimer = "Hi, this website is a personal project of mine to showcase what I'm up to. It is a portfolio of work that I am expanding upon. That should be enough for a *test*"
