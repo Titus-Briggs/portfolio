@@ -92,7 +92,7 @@ src = "https://cloud.umami.is/script.js"
 # ===== Test removing footer =====
 
   [params.footer]
-    enable = false
+    enable = true
     # whether to show copyright info
     copyright = false
     # whether to show the author
