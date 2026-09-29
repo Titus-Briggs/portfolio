@@ -50,6 +50,15 @@ lightbox = true
   #   [menu.main.params]
   #     icon = "fa-solid fa-tags"
 
+# ===== Intro to site =====
+
+ [params.home.profile]
+  enabled = true
+  title = "Titus Briggs"
+  subtitle = "Product data, Systems, and Commercial Thinking"
+  disclaimer = "Hi, this website is a personal project of mine to showcase what I'm up to. It is a portfolio of work that I am expanding upon. That should be enough for a *test*"
+
+
 # ===== Contact me =====
 [params.social]
   LinkedIn = "https://www.linkedin.com/in/titus-briggs-1584b025a/"
