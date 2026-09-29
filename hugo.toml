@@ -87,3 +87,41 @@ enable = true
 [params.analytics.umami]
 data_website_id = "5a9a7333-25a7-4efa-9d52-2c71531942d5"
 src = "https://cloud.umami.is/script.js"
+
+
+# ===== Test removing footer =====
+
+  [params.footer]
+    enable = false
+    # whether to show copyright info
+    copyright = false
+    # whether to show the author
+    author = true
+    # Site creation year
+    since = "2025"
+    # FixIt 0.2.12 | NEW Public network security only in China (HTML format is supported)
+    gov = ""
+    # ICP info only in China (HTML format is supported)
+    icp = ""
+    # license info (HTML format is supported)
+    license = ""
+    # FixIt 0.3.0 | NEW whether to show Hugo and theme info
+    [params.footer.powered]
+      enable = false
+      hugoLogo = false
+      themeLogo = false
+    # FixIt 0.2.17 | CHANGED Site creation time
+    [params.footer.siteTime]
+      enable = false
+      animate = false
+      icon = "fa-solid fa-heartbeat"
+      pre = ""
+      value = "" # e.g. "2021-12-18T16:15:22+08:00"
+    # FixIt 0.2.17 | NEW footer lines order, optional values: ["first", 0, 1, 2, 3, 4, 5, "last"]
+    [params.footer.order]
+      powered = 0
+      copyright = 0
+      statistics = 0
+      visitor = 0
+      beian = 0
+
