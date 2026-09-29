@@ -52,15 +52,20 @@ lightbox = true
 
 # ===== Intro to site =====
 
- [params.home.profile]
+[params.home.profile]
   enable = true
-  subtitle = "Work, Projects & Learning"
+  title = "Work | Projects | Learning"
+  subtitle = ""
+  typeit = true
+  social = true
   disclaimer = "A personal project for the work I do and the things I'm building on the side. Data work, tools, systems and whatever comes next. Part portfolio, part blog."
 
 # ===== Contact me =====
 [params.social]
-  LinkedIn = "https://www.linkedin.com/in/titus-briggs-1584b025a/"
-  Email = "mailto:briggstitus123@gmail.com"
+  Linkedin = "https://www.linkedin.com/in/titus-briggs-1584b025a/"
+  Email = "mailto:briggstitus@icloud.com"
+  RSS = false
+
 
 # ===== Colours =====
 [params]
