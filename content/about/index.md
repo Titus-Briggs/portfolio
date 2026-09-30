@@ -6,8 +6,6 @@ My work sits somewhere between **data, ecommerce, products, and commercial opera
 
 I like being the person who can step back, understand how those pieces connect, and turn something complicated into something that works.
 
----
-
 # How I Got Here
 
 The path here wasn't exactly planned.
