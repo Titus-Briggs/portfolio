@@ -68,7 +68,7 @@ I liked taking information, finding patterns, understanding what was happening, 
 
 That realisation opened things up considerably.
 
-Not long after, I interviewed at **SGS Engineering**. What initially looked like an unusual combination of experiences — data analysis, a background in sport, and several years working in retail — turned out to be surprisingly relevant.
+Not long after, I interviewed at **SGS Engineering**. What initially looked like an unusual combination of experiences — data analysis and several years working in retail — turned out to be surprisingly relevant.
 
 I joined SGS and found myself working at the intersection of data, ecommerce, products, and commercial operations.
 
