@@ -50,7 +50,7 @@ I learned about customers, stock, operations, targets, people, commercial decisi
 
 Looking back, those experiences ended up being much more connected than I initially thought.
 
-## Realising I liked the analysis more than the subject
+### Realising I liked the analysis more than the subject
 
 After university, I started looking for roles in sports data. I had a good job as a Department Manager, but I didn't see myself doing it long-term.
 
