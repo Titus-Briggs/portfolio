@@ -55,7 +55,7 @@ lightbox = true
 [params.home.profile]
   enable = true
   title = "Work | Projects | Learning"
-  subtitle = "A personal project for the work I do and the things I'm building on the side. Data work, tools, systems and whatever comes next. Part portfolio, part blog."
+  subtitle = "Documenting projects and the work I do. Portfolio, blog, and digital notebook. Get in touch"
   typeit = true
   social = true
   disclaimer = ""
@@ -63,7 +63,7 @@ lightbox = true
 # ===== Contact me =====
 [params.social]
   Linkedin = "https://www.linkedin.com/in/titus-briggs-1584b025a/"
-  Email = "mailto:briggstitus@icloud.com"
+  Email = "briggstitus@icloud.com"
   RSS = false
 
 
