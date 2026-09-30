@@ -37,6 +37,7 @@ That led to a placement with **Nova Centurion Swimming Club**, where I got the c
 <p>
   <a href="https://titus-briggs.github.io/posts/5f0dded/">Read more about that here →</a>
 </p>
+</p>
 
 Alongside university, I was also working at **Halfords**.
 
@@ -77,8 +78,7 @@ And that's where I am now.
 <p>
   <a href="https://titus-briggs.github.io/posts/604a6dc/">Read more about what I do at SGS →</a>
 </p>
-
----
+</p>
 
 # What Now?
 
@@ -90,8 +90,6 @@ For now, I'm more interested in building useful skills, working on interesting p
 
 This site is the record of that journey.
 
-
----
 
 # Contact Me
 
